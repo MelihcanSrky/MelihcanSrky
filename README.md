@@ -1,9 +1,9 @@
 ### Hi there 👋, My name is Melih Can
 
-Skills: Flutter / Kotlin / Python (Machine Learning) / MVVM / Firebase / Node.js / Postgresql
+Skills: Kotlin / Flutter / Nodejs
 
 - 🔭 I’m currently working on Netcad Yazılım A.Ş. (Trainee Flutter Developer)
-- 🌱 I’m currently learning Flutter / React / Next.js / GoLang
+- 🌱 I’m currently learning Vue.js / GoLang
 - I'm currently trying NeoVim
 - 📫 How to reach me: sarikayamelihcan-01@outlook.com 
 
