@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Melih Can
 
-Skills: Kotlin / Flutter / Nodejs
+Skills: Whatever I want to write.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Vue.js / GoLang
