@@ -20,7 +20,7 @@ Skills: Whatever I want to write.
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MelihcanSrky&theme=transparent" />
   </a>
   <a href="https://github.com/MelihcanSrky">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelihcanSrky&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,lua,c,c%2B%2B,objective-c,cmake,makefile,batchfile,emacs%20lisp,swift,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelihcanSrky&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,lua,c,c%2B%2B,objectivec,cmake,makefile,batchfile,emacs%20lisp,swift,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
 </details>
