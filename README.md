@@ -2,8 +2,15 @@
 
 Skills: Whatever I want to write.
 
+#### Tech Stack
+- Kotlin
+- Flutter
+- Node.js
+- Javascript
+- PostgreSQL
+
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Vue.js / GoLang
+- 🌱 I’m currently learning GoLang
 - I'm currently trying NeoVim
 - 📫 How to reach me: sarikayamelihcan-01@outlook.com 
 
