@@ -3,7 +3,7 @@
 Skills: Whatever I want to write.
 
 #### Tech Stack
-- Kotlin - Flutter - Node.js - Javascript - PostgreSQL
+- Kotlin - Flutter - Node.js - React(Next.js) - React-Native - JS/TS
 
 ---------------------
 - 🔭 I’m currently working on ...
