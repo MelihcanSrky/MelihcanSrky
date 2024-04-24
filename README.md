@@ -3,12 +3,11 @@
 Skills: Whatever I want to write.
 
 #### Tech Stack
-- Kotlin - Java(Spring Boot) - Flutter - Node.js - React(Next.js) - React-Native - JS/TS
+- Kotlin - Java(Spring Boot) - Node.js - React(Next.js) - React-Native - JS/TS - Flutter
 
 ---------------------
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- I'm currently trying NeoVim
+- 🌱 I’m currently learning Go - Svelte - FullStack
 - 📫 How to reach me: sarikayamelihcan-01@outlook.com
 <img src='https://www.codewars.com/users/MelihcanSrky/badges/large'>
 
