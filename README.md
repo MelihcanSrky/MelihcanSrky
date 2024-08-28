@@ -7,7 +7,7 @@ Skills: Whatever I want to write.
 
 ---------------------
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Go - .NET - Tailwind - FullStack
+- 🌱 I’m currently learning Java - Tailwind - FullStack
 - 📫 How to reach me: sarikayamelihcan-01@outlook.com
 <img src='https://www.codewars.com/users/MelihcanSrky/badges/large'>
 
