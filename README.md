@@ -3,7 +3,7 @@
 Skills: Whatever I want to write.
 
 #### Tech Stack
-- Kotlin - Java(Spring Boot) - Node.js - React(Next.js) - React-Native - JS/TS - Flutter
+- Kotlin - Java(Spring Boot) - Angular - React-Native - JS/TS - Flutter
 
 ---------------------
 - 🔭 I’m currently working on ...
